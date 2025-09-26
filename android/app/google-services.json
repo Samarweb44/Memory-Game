@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289269615124",
+    "project_id": "memo2-ca40b",
+    "storage_bucket": "memo2-ca40b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289269615124:android:f2b0b9c7a0d273a1d77501",
+        "android_client_info": {
+          "package_name": "com.example.memory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDpN9UvOJA2l5kuDaF4DxZtD_wkhDi1OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
